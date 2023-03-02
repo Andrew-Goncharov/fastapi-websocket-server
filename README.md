@@ -6,5 +6,4 @@
 
  - <code> uvicorn main:app --host 0.0.0.0 --port 80 </code>
  
- - <code> uvicorn main:app --host 0.0.0.0 --port 5000 --ssl-keyfile=./key.pem --ssl-certfile=./cert.pem
- </code>
+ - <code> uvicorn main:app --host 0.0.0.0 --port 5000 --ssl-keyfile=./key.pem --ssl-certfile=./cert.pem </code>
